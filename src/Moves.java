@@ -13,7 +13,6 @@ public class Moves
         this.wayOfMove =wayOfMove;
         this.maxSteps = maxSteps;
         this.minSteps = minSteps;
-        ///111
     }
     public Enums.direction get_direction()
     {
